@@ -27,8 +27,6 @@ O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias
 * [08 - Shadow Monster](https://github.com/balta-io/balta-desafio-caca-aos-bugs-2025_8-shadow-monster)
 * [09 - Vecna](https://github.com/balta-io/balta-desafio-caca-aos-bugs-2025_9-vecna)
 
-<img width="737" height="892" alt="recompensas" src="https://github.com/user-attachments/assets/1bb39874-2444-4478-adab-99d935339b56" />
-
-
 ### Minhas Resoluções
 * [Desafio - 01](https://github.com/dev-LBAM/balta-desafio-caca-aos-bugs-2025_1-spore)
+* [Desafio - 02](https://github.com/dev-LBAM/balta-desafio-caca-aos-bugs-2025_2-baby-demo-dog)
